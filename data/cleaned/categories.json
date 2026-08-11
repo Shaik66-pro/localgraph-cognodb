@@ -1,0 +1,3918 @@
+[
+  {
+    "category_id": "cat_doctors",
+    "name": "Doctors"
+  },
+  {
+    "category_id": "cat_traditional_chinese_medicine",
+    "name": "Traditional Chinese Medicine"
+  },
+  {
+    "category_id": "cat_naturopathic_holistic",
+    "name": "Naturopathic/Holistic"
+  },
+  {
+    "category_id": "cat_acupuncture",
+    "name": "Acupuncture"
+  },
+  {
+    "category_id": "cat_health___medical",
+    "name": "Health & Medical"
+  },
+  {
+    "category_id": "cat_nutritionists",
+    "name": "Nutritionists"
+  },
+  {
+    "category_id": "cat_women_s_clothing",
+    "name": "Women's Clothing"
+  },
+  {
+    "category_id": "cat_accessories",
+    "name": "Accessories"
+  },
+  {
+    "category_id": "cat_children_s_clothing",
+    "name": "Children's Clothing"
+  },
+  {
+    "category_id": "cat_men_s_clothing",
+    "name": "Men's Clothing"
+  },
+  {
+    "category_id": "cat_adult",
+    "name": "Adult"
+  },
+  {
+    "category_id": "cat_shopping",
+    "name": "Shopping"
+  },
+  {
+    "category_id": "cat_fashion",
+    "name": "Fashion"
+  },
+  {
+    "category_id": "cat_food",
+    "name": "Food"
+  },
+  {
+    "category_id": "cat_restaurants",
+    "name": "Restaurants"
+  },
+  {
+    "category_id": "cat_salad",
+    "name": "Salad"
+  },
+  {
+    "category_id": "cat_coffee___tea",
+    "name": "Coffee & Tea"
+  },
+  {
+    "category_id": "cat_breakfast___brunch",
+    "name": "Breakfast & Brunch"
+  },
+  {
+    "category_id": "cat_sandwiches",
+    "name": "Sandwiches"
+  },
+  {
+    "category_id": "cat_bakeries",
+    "name": "Bakeries"
+  },
+  {
+    "category_id": "cat_towing",
+    "name": "Towing"
+  },
+  {
+    "category_id": "cat_automotive",
+    "name": "Automotive"
+  },
+  {
+    "category_id": "cat_body_shops",
+    "name": "Body Shops"
+  },
+  {
+    "category_id": "cat_parenting_classes",
+    "name": "Parenting Classes"
+  },
+  {
+    "category_id": "cat_maternity_wear",
+    "name": "Maternity Wear"
+  },
+  {
+    "category_id": "cat_education",
+    "name": "Education"
+  },
+  {
+    "category_id": "cat_specialty_schools",
+    "name": "Specialty Schools"
+  },
+  {
+    "category_id": "cat_local_services",
+    "name": "Local Services"
+  },
+  {
+    "category_id": "cat_home_services",
+    "name": "Home Services"
+  },
+  {
+    "category_id": "cat_laundry_services",
+    "name": "Laundry Services"
+  },
+  {
+    "category_id": "cat_child_care___day_care",
+    "name": "Child Care & Day Care"
+  },
+  {
+    "category_id": "cat_baby_gear___furniture",
+    "name": "Baby Gear & Furniture"
+  },
+  {
+    "category_id": "cat_live_raw_food",
+    "name": "Live/Raw Food"
+  },
+  {
+    "category_id": "cat_seafood",
+    "name": "Seafood"
+  },
+  {
+    "category_id": "cat_beer_bar",
+    "name": "Beer Bar"
+  },
+  {
+    "category_id": "cat_beer",
+    "name": "Beer"
+  },
+  {
+    "category_id": "cat_wine___spirits",
+    "name": "Wine & Spirits"
+  },
+  {
+    "category_id": "cat_bars",
+    "name": "Bars"
+  },
+  {
+    "category_id": "cat_nightlife",
+    "name": "Nightlife"
+  },
+  {
+    "category_id": "cat_beauty___spas",
+    "name": "Beauty & Spas"
+  },
+  {
+    "category_id": "cat_tattoo",
+    "name": "Tattoo"
+  },
+  {
+    "category_id": "cat_motorcycle_rental",
+    "name": "Motorcycle Rental"
+  },
+  {
+    "category_id": "cat_tours",
+    "name": "Tours"
+  },
+  {
+    "category_id": "cat_hiking",
+    "name": "Hiking"
+  },
+  {
+    "category_id": "cat_mountain_biking",
+    "name": "Mountain Biking"
+  },
+  {
+    "category_id": "cat_atv_rentals_tours",
+    "name": "ATV Rentals/Tours"
+  },
+  {
+    "category_id": "cat_rv_rental",
+    "name": "RV Rental"
+  },
+  {
+    "category_id": "cat_hotels___travel",
+    "name": "Hotels & Travel"
+  },
+  {
+    "category_id": "cat_arts___entertainment",
+    "name": "Arts & Entertainment"
+  },
+  {
+    "category_id": "cat_active_life",
+    "name": "Active Life"
+  },
+  {
+    "category_id": "cat_professional_services",
+    "name": "Professional Services"
+  },
+  {
+    "category_id": "cat_officiants",
+    "name": "Officiants"
+  },
+  {
+    "category_id": "cat_event_planning___services",
+    "name": "Event Planning & Services"
+  },
+  {
+    "category_id": "cat_wedding_planning",
+    "name": "Wedding Planning"
+  },
+  {
+    "category_id": "cat_pizza",
+    "name": "Pizza"
+  },
+  {
+    "category_id": "cat_burgers",
+    "name": "Burgers"
+  },
+  {
+    "category_id": "cat_cafes",
+    "name": "Cafes"
+  },
+  {
+    "category_id": "cat_mexican",
+    "name": "Mexican"
+  },
+  {
+    "category_id": "cat_american__traditional_",
+    "name": "American (Traditional)"
+  },
+  {
+    "category_id": "cat_home___garden",
+    "name": "Home & Garden"
+  },
+  {
+    "category_id": "cat_home_decor",
+    "name": "Home Decor"
+  },
+  {
+    "category_id": "cat_props",
+    "name": "Props"
+  },
+  {
+    "category_id": "cat_skin_care",
+    "name": "Skin Care"
+  },
+  {
+    "category_id": "cat_massage",
+    "name": "Massage"
+  },
+  {
+    "category_id": "cat_jewelry",
+    "name": "Jewelry"
+  },
+  {
+    "category_id": "cat_chicken_wings",
+    "name": "Chicken Wings"
+  },
+  {
+    "category_id": "cat_italian",
+    "name": "Italian"
+  },
+  {
+    "category_id": "cat_recreation_centers",
+    "name": "Recreation Centers"
+  },
+  {
+    "category_id": "cat_virtual_reality_centers",
+    "name": "Virtual Reality Centers"
+  },
+  {
+    "category_id": "cat_masonry_concrete",
+    "name": "Masonry/Concrete"
+  },
+  {
+    "category_id": "cat_contractors",
+    "name": "Contractors"
+  },
+  {
+    "category_id": "cat_coffee_roasteries",
+    "name": "Coffee Roasteries"
+  },
+  {
+    "category_id": "cat_thai",
+    "name": "Thai"
+  },
+  {
+    "category_id": "cat_fitness___instruction",
+    "name": "Fitness & Instruction"
+  },
+  {
+    "category_id": "cat_swimming_pools",
+    "name": "Swimming Pools"
+  },
+  {
+    "category_id": "cat_gyms",
+    "name": "Gyms"
+  },
+  {
+    "category_id": "cat_parks",
+    "name": "Parks"
+  },
+  {
+    "category_id": "cat_hair_stylists",
+    "name": "Hair Stylists"
+  },
+  {
+    "category_id": "cat_hair_extensions",
+    "name": "Hair Extensions"
+  },
+  {
+    "category_id": "cat_hair_salons",
+    "name": "Hair Salons"
+  },
+  {
+    "category_id": "cat_real_estate_agents",
+    "name": "Real Estate Agents"
+  },
+  {
+    "category_id": "cat_real_estate",
+    "name": "Real Estate"
+  },
+  {
+    "category_id": "cat_real_estate_services",
+    "name": "Real Estate Services"
+  },
+  {
+    "category_id": "cat_gluten_free",
+    "name": "Gluten-Free"
+  },
+  {
+    "category_id": "cat_vegan",
+    "name": "Vegan"
+  },
+  {
+    "category_id": "cat_fast_food",
+    "name": "Fast Food"
+  },
+  {
+    "category_id": "cat_pubs",
+    "name": "Pubs"
+  },
+  {
+    "category_id": "cat_kombucha",
+    "name": "Kombucha"
+  },
+  {
+    "category_id": "cat_wineries",
+    "name": "Wineries"
+  },
+  {
+    "category_id": "cat_trainers",
+    "name": "Trainers"
+  },
+  {
+    "category_id": "cat_boot_camps",
+    "name": "Boot Camps"
+  },
+  {
+    "category_id": "cat_home_inspectors",
+    "name": "Home Inspectors"
+  },
+  {
+    "category_id": "cat_handyman",
+    "name": "Handyman"
+  },
+  {
+    "category_id": "cat_auto_repair",
+    "name": "Auto Repair"
+  },
+  {
+    "category_id": "cat_themed_cafes",
+    "name": "Themed Cafes"
+  },
+  {
+    "category_id": "cat_pets",
+    "name": "Pets"
+  },
+  {
+    "category_id": "cat_pet_adoption",
+    "name": "Pet Adoption"
+  },
+  {
+    "category_id": "cat_pet_sitting",
+    "name": "Pet Sitting"
+  },
+  {
+    "category_id": "cat_pet_stores",
+    "name": "Pet Stores"
+  },
+  {
+    "category_id": "cat_pet_services",
+    "name": "Pet Services"
+  },
+  {
+    "category_id": "cat_tanning",
+    "name": "Tanning"
+  },
+  {
+    "category_id": "cat_delis",
+    "name": "Delis"
+  },
+  {
+    "category_id": "cat_food_delivery_services",
+    "name": "Food Delivery Services"
+  },
+  {
+    "category_id": "cat_caterers",
+    "name": "Caterers"
+  },
+  {
+    "category_id": "cat_veterinarians",
+    "name": "Veterinarians"
+  },
+  {
+    "category_id": "cat_sporting_goods",
+    "name": "Sporting Goods"
+  },
+  {
+    "category_id": "cat_sports_wear",
+    "name": "Sports Wear"
+  },
+  {
+    "category_id": "cat_notaries",
+    "name": "Notaries"
+  },
+  {
+    "category_id": "cat_mailbox_centers",
+    "name": "Mailbox Centers"
+  },
+  {
+    "category_id": "cat_printing_services",
+    "name": "Printing Services"
+  },
+  {
+    "category_id": "cat_shipping_centers",
+    "name": "Shipping Centers"
+  },
+  {
+    "category_id": "cat_window_washing",
+    "name": "Window Washing"
+  },
+  {
+    "category_id": "cat_office_cleaning",
+    "name": "Office Cleaning"
+  },
+  {
+    "category_id": "cat_home_cleaning",
+    "name": "Home Cleaning"
+  },
+  {
+    "category_id": "cat_carpet_cleaning",
+    "name": "Carpet Cleaning"
+  },
+  {
+    "category_id": "cat_nail_salons",
+    "name": "Nail Salons"
+  },
+  {
+    "category_id": "cat_bookstores",
+    "name": "Bookstores"
+  },
+  {
+    "category_id": "cat_books",
+    "name": "Books"
+  },
+  {
+    "category_id": "cat_mags",
+    "name": "Mags"
+  },
+  {
+    "category_id": "cat_music___video",
+    "name": "Music & Video"
+  },
+  {
+    "category_id": "cat_party_supplies",
+    "name": "Party Supplies"
+  },
+  {
+    "category_id": "cat_arcades",
+    "name": "Arcades"
+  },
+  {
+    "category_id": "cat_adult_entertainment",
+    "name": "Adult Entertainment"
+  },
+  {
+    "category_id": "cat_personal_shopping",
+    "name": "Personal Shopping"
+  },
+  {
+    "category_id": "cat_lingerie",
+    "name": "Lingerie"
+  },
+  {
+    "category_id": "cat_adult_education",
+    "name": "Adult Education"
+  },
+  {
+    "category_id": "cat_kitchen___bath",
+    "name": "Kitchen & Bath"
+  },
+  {
+    "category_id": "cat_windows_installation",
+    "name": "Windows Installation"
+  },
+  {
+    "category_id": "cat_cabinetry",
+    "name": "Cabinetry"
+  },
+  {
+    "category_id": "cat_interior_design",
+    "name": "Interior Design"
+  },
+  {
+    "category_id": "cat_juice_bars___smoothies",
+    "name": "Juice Bars & Smoothies"
+  },
+  {
+    "category_id": "cat_neurologist",
+    "name": "Neurologist"
+  },
+  {
+    "category_id": "cat_furniture_reupholstery",
+    "name": "Furniture Reupholstery"
+  },
+  {
+    "category_id": "cat_antiques",
+    "name": "Antiques"
+  },
+  {
+    "category_id": "cat_furniture_stores",
+    "name": "Furniture Stores"
+  },
+  {
+    "category_id": "cat_mattresses",
+    "name": "Mattresses"
+  },
+  {
+    "category_id": "cat_festivals",
+    "name": "Festivals"
+  },
+  {
+    "category_id": "cat_food_stands",
+    "name": "Food Stands"
+  },
+  {
+    "category_id": "cat_auto_glass_services",
+    "name": "Auto Glass Services"
+  },
+  {
+    "category_id": "cat_car_wash",
+    "name": "Car Wash"
+  },
+  {
+    "category_id": "cat_auto_detailing",
+    "name": "Auto Detailing"
+  },
+  {
+    "category_id": "cat_breweries",
+    "name": "Breweries"
+  },
+  {
+    "category_id": "cat_food_court",
+    "name": "Food Court"
+  },
+  {
+    "category_id": "cat_venues___event_spaces",
+    "name": "Venues & Event Spaces"
+  },
+  {
+    "category_id": "cat_wine_tasting_room",
+    "name": "Wine Tasting Room"
+  },
+  {
+    "category_id": "cat_shopping_centers",
+    "name": "Shopping Centers"
+  },
+  {
+    "category_id": "cat_brewpubs",
+    "name": "Brewpubs"
+  },
+  {
+    "category_id": "cat_appliances___repair",
+    "name": "Appliances & Repair"
+  },
+  {
+    "category_id": "cat_appliances",
+    "name": "Appliances"
+  },
+  {
+    "category_id": "cat_bartenders",
+    "name": "Bartenders"
+  },
+  {
+    "category_id": "cat_djs",
+    "name": "DJs"
+  },
+  {
+    "category_id": "cat_car_rental",
+    "name": "Car Rental"
+  },
+  {
+    "category_id": "cat_surf_schools",
+    "name": "Surf Schools"
+  },
+  {
+    "category_id": "cat_paddleboarding",
+    "name": "Paddleboarding"
+  },
+  {
+    "category_id": "cat_beach_equipment_rentals",
+    "name": "Beach Equipment Rentals"
+  },
+  {
+    "category_id": "cat_surfing",
+    "name": "Surfing"
+  },
+  {
+    "category_id": "cat_rugs",
+    "name": "Rugs"
+  },
+  {
+    "category_id": "cat_candle_stores",
+    "name": "Candle Stores"
+  },
+  {
+    "category_id": "cat_bikes",
+    "name": "Bikes"
+  },
+  {
+    "category_id": "cat_divorce___family_law",
+    "name": "Divorce & Family Law"
+  },
+  {
+    "category_id": "cat_criminal_defense_law",
+    "name": "Criminal Defense Law"
+  },
+  {
+    "category_id": "cat_lawyers",
+    "name": "Lawyers"
+  },
+  {
+    "category_id": "cat_convenience_stores",
+    "name": "Convenience Stores"
+  },
+  {
+    "category_id": "cat_gas_stations",
+    "name": "Gas Stations"
+  },
+  {
+    "category_id": "cat_acai_bowls",
+    "name": "Acai Bowls"
+  },
+  {
+    "category_id": "cat_ice_cream___frozen_yogurt",
+    "name": "Ice Cream & Frozen Yogurt"
+  },
+  {
+    "category_id": "cat_bubble_tea",
+    "name": "Bubble Tea"
+  },
+  {
+    "category_id": "cat_desserts",
+    "name": "Desserts"
+  },
+  {
+    "category_id": "cat_argentine",
+    "name": "Argentine"
+  },
+  {
+    "category_id": "cat_cosmetics___beauty_supply",
+    "name": "Cosmetics & Beauty Supply"
+  },
+  {
+    "category_id": "cat_hair_removal",
+    "name": "Hair Removal"
+  },
+  {
+    "category_id": "cat_eyebrow_services",
+    "name": "Eyebrow Services"
+  },
+  {
+    "category_id": "cat_makeup_artists",
+    "name": "Makeup Artists"
+  },
+  {
+    "category_id": "cat_waxing",
+    "name": "Waxing"
+  },
+  {
+    "category_id": "cat_eyelash_service",
+    "name": "Eyelash Service"
+  },
+  {
+    "category_id": "cat_american__new_",
+    "name": "American (New)"
+  },
+  {
+    "category_id": "cat_plumbing",
+    "name": "Plumbing"
+  },
+  {
+    "category_id": "cat_food_trucks",
+    "name": "Food Trucks"
+  },
+  {
+    "category_id": "cat_hotels",
+    "name": "Hotels"
+  },
+  {
+    "category_id": "cat_obstetricians___gynecologists",
+    "name": "Obstetricians & Gynecologists"
+  },
+  {
+    "category_id": "cat_medical_centers",
+    "name": "Medical Centers"
+  },
+  {
+    "category_id": "cat_chinese",
+    "name": "Chinese"
+  },
+  {
+    "category_id": "cat_wine_tours",
+    "name": "Wine Tours"
+  },
+  {
+    "category_id": "cat_campgrounds",
+    "name": "Campgrounds"
+  },
+  {
+    "category_id": "cat_german",
+    "name": "German"
+  },
+  {
+    "category_id": "cat_transportation",
+    "name": "Transportation"
+  },
+  {
+    "category_id": "cat_limos",
+    "name": "Limos"
+  },
+  {
+    "category_id": "cat_taxis",
+    "name": "Taxis"
+  },
+  {
+    "category_id": "cat_town_car_service",
+    "name": "Town Car Service"
+  },
+  {
+    "category_id": "cat_airport_shuttles",
+    "name": "Airport Shuttles"
+  },
+  {
+    "category_id": "cat_vietnamese",
+    "name": "Vietnamese"
+  },
+  {
+    "category_id": "cat_permanent_makeup",
+    "name": "Permanent Makeup"
+  },
+  {
+    "category_id": "cat_hot_dogs",
+    "name": "Hot Dogs"
+  },
+  {
+    "category_id": "cat_truck_rental",
+    "name": "Truck Rental"
+  },
+  {
+    "category_id": "cat_machine___tool_rental",
+    "name": "Machine & Tool Rental"
+  },
+  {
+    "category_id": "cat_trailer_rental",
+    "name": "Trailer Rental"
+  },
+  {
+    "category_id": "cat_shoe_shine",
+    "name": "Shoe Shine"
+  },
+  {
+    "category_id": "cat_men_s_hair_salons",
+    "name": "Men's Hair Salons"
+  },
+  {
+    "category_id": "cat_barbers",
+    "name": "Barbers"
+  },
+  {
+    "category_id": "cat_eyewear___opticians",
+    "name": "Eyewear & Opticians"
+  },
+  {
+    "category_id": "cat_sunglasses",
+    "name": "Sunglasses"
+  },
+  {
+    "category_id": "cat_optometrists",
+    "name": "Optometrists"
+  },
+  {
+    "category_id": "cat_laser_eye_surgery_lasik",
+    "name": "Laser Eye Surgery/Lasik"
+  },
+  {
+    "category_id": "cat_ophthalmologists",
+    "name": "Ophthalmologists"
+  },
+  {
+    "category_id": "cat_matchmakers",
+    "name": "Matchmakers"
+  },
+  {
+    "category_id": "cat_local_flavor",
+    "name": "Local Flavor"
+  },
+  {
+    "category_id": "cat_life_coach",
+    "name": "Life Coach"
+  },
+  {
+    "category_id": "cat_photographers",
+    "name": "Photographers"
+  },
+  {
+    "category_id": "cat_spray_tanning",
+    "name": "Spray Tanning"
+  },
+  {
+    "category_id": "cat_flowers___gifts",
+    "name": "Flowers & Gifts"
+  },
+  {
+    "category_id": "cat_gift_shops",
+    "name": "Gift Shops"
+  },
+  {
+    "category_id": "cat_specialty_food",
+    "name": "Specialty Food"
+  },
+  {
+    "category_id": "cat_health_markets",
+    "name": "Health Markets"
+  },
+  {
+    "category_id": "cat_skate_shops",
+    "name": "Skate Shops"
+  },
+  {
+    "category_id": "cat_transmission_repair",
+    "name": "Transmission Repair"
+  },
+  {
+    "category_id": "cat_tires",
+    "name": "Tires"
+  },
+  {
+    "category_id": "cat_oil_change_stations",
+    "name": "Oil Change Stations"
+  },
+  {
+    "category_id": "cat_department_stores",
+    "name": "Department Stores"
+  },
+  {
+    "category_id": "cat_pest_control",
+    "name": "Pest Control"
+  },
+  {
+    "category_id": "cat_playgrounds",
+    "name": "Playgrounds"
+  },
+  {
+    "category_id": "cat_musical_instruments___teachers",
+    "name": "Musical Instruments & Teachers"
+  },
+  {
+    "category_id": "cat_piano_services",
+    "name": "Piano Services"
+  },
+  {
+    "category_id": "cat_musical_instrument_services",
+    "name": "Musical Instrument Services"
+  },
+  {
+    "category_id": "cat_private_tutors",
+    "name": "Private Tutors"
+  },
+  {
+    "category_id": "cat_musicians",
+    "name": "Musicians"
+  },
+  {
+    "category_id": "cat_motorcycle_dealers",
+    "name": "Motorcycle Dealers"
+  },
+  {
+    "category_id": "cat_used",
+    "name": "Used"
+  },
+  {
+    "category_id": "cat_vintage___consignment",
+    "name": "Vintage & Consignment"
+  },
+  {
+    "category_id": "cat_vegetarian",
+    "name": "Vegetarian"
+  },
+  {
+    "category_id": "cat_electricians",
+    "name": "Electricians"
+  },
+  {
+    "category_id": "cat_pilates",
+    "name": "Pilates"
+  },
+  {
+    "category_id": "cat_museums",
+    "name": "Museums"
+  },
+  {
+    "category_id": "cat_landmarks___historical_buildings",
+    "name": "Landmarks & Historical Buildings"
+  },
+  {
+    "category_id": "cat_public_services___government",
+    "name": "Public Services & Government"
+  },
+  {
+    "category_id": "cat_wine_bars",
+    "name": "Wine Bars"
+  },
+  {
+    "category_id": "cat_soup",
+    "name": "Soup"
+  },
+  {
+    "category_id": "cat_security_systems",
+    "name": "Security Systems"
+  },
+  {
+    "category_id": "cat_keys___locksmiths",
+    "name": "Keys & Locksmiths"
+  },
+  {
+    "category_id": "cat_sports_bars",
+    "name": "Sports Bars"
+  },
+  {
+    "category_id": "cat_auto_parts___supplies",
+    "name": "Auto Parts & Supplies"
+  },
+  {
+    "category_id": "cat_art_galleries",
+    "name": "Art Galleries"
+  },
+  {
+    "category_id": "cat_arts___crafts",
+    "name": "Arts & Crafts"
+  },
+  {
+    "category_id": "cat_framing",
+    "name": "Framing"
+  },
+  {
+    "category_id": "cat_self_storage",
+    "name": "Self Storage"
+  },
+  {
+    "category_id": "cat_embroidery___crochet",
+    "name": "Embroidery & Crochet"
+  },
+  {
+    "category_id": "cat_screen_printing_t_shirt_printing",
+    "name": "Screen Printing/T-Shirt Printing"
+  },
+  {
+    "category_id": "cat_piercing",
+    "name": "Piercing"
+  },
+  {
+    "category_id": "cat_boating",
+    "name": "Boating"
+  },
+  {
+    "category_id": "cat_rafting_kayaking",
+    "name": "Rafting/Kayaking"
+  },
+  {
+    "category_id": "cat_cryotherapy",
+    "name": "Cryotherapy"
+  },
+  {
+    "category_id": "cat_weight_loss_centers",
+    "name": "Weight Loss Centers"
+  },
+  {
+    "category_id": "cat_physical_therapy",
+    "name": "Physical Therapy"
+  },
+  {
+    "category_id": "cat_pain_management",
+    "name": "Pain Management"
+  },
+  {
+    "category_id": "cat_cannabis_clinics",
+    "name": "Cannabis Clinics"
+  },
+  {
+    "category_id": "cat_head_shops",
+    "name": "Head Shops"
+  },
+  {
+    "category_id": "cat_grocery",
+    "name": "Grocery"
+  },
+  {
+    "category_id": "cat_wholesale_stores",
+    "name": "Wholesale Stores"
+  },
+  {
+    "category_id": "cat_dentists",
+    "name": "Dentists"
+  },
+  {
+    "category_id": "cat_general_dentistry",
+    "name": "General Dentistry"
+  },
+  {
+    "category_id": "cat_indian",
+    "name": "Indian"
+  },
+  {
+    "category_id": "cat_tacos",
+    "name": "Tacos"
+  },
+  {
+    "category_id": "cat_french",
+    "name": "French"
+  },
+  {
+    "category_id": "cat_day_spas",
+    "name": "Day Spas"
+  },
+  {
+    "category_id": "cat_swimming_lessons_schools",
+    "name": "Swimming Lessons/Schools"
+  },
+  {
+    "category_id": "cat_hydrotherapy",
+    "name": "Hydrotherapy"
+  },
+  {
+    "category_id": "cat_churches",
+    "name": "Churches"
+  },
+  {
+    "category_id": "cat_religious_organizations",
+    "name": "Religious Organizations"
+  },
+  {
+    "category_id": "cat_property_management",
+    "name": "Property Management"
+  },
+  {
+    "category_id": "cat_financial_services",
+    "name": "Financial Services"
+  },
+  {
+    "category_id": "cat_hardware_stores",
+    "name": "Hardware Stores"
+  },
+  {
+    "category_id": "cat_vacation_rentals",
+    "name": "Vacation Rentals"
+  },
+  {
+    "category_id": "cat_party___event_planning",
+    "name": "Party & Event Planning"
+  },
+  {
+    "category_id": "cat_orthopedists",
+    "name": "Orthopedists"
+  },
+  {
+    "category_id": "cat_orthotics",
+    "name": "Orthotics"
+  },
+  {
+    "category_id": "cat_podiatrists",
+    "name": "Podiatrists"
+  },
+  {
+    "category_id": "cat_surgeons",
+    "name": "Surgeons"
+  },
+  {
+    "category_id": "cat_sports_medicine",
+    "name": "Sports Medicine"
+  },
+  {
+    "category_id": "cat_pet_training",
+    "name": "Pet Training"
+  },
+  {
+    "category_id": "cat_florists",
+    "name": "Florists"
+  },
+  {
+    "category_id": "cat_animal_shelters",
+    "name": "Animal Shelters"
+  },
+  {
+    "category_id": "cat_gardeners",
+    "name": "Gardeners"
+  },
+  {
+    "category_id": "cat_landscaping",
+    "name": "Landscaping"
+  },
+  {
+    "category_id": "cat_nurseries___gardening",
+    "name": "Nurseries & Gardening"
+  },
+  {
+    "category_id": "cat_irrigation",
+    "name": "Irrigation"
+  },
+  {
+    "category_id": "cat_karaoke",
+    "name": "Karaoke"
+  },
+  {
+    "category_id": "cat_session_photography",
+    "name": "Session Photography"
+  },
+  {
+    "category_id": "cat_event_photography",
+    "name": "Event Photography"
+  },
+  {
+    "category_id": "cat_investing",
+    "name": "Investing"
+  },
+  {
+    "category_id": "cat_financial_advising",
+    "name": "Financial Advising"
+  },
+  {
+    "category_id": "cat_dui_law",
+    "name": "DUI Law"
+  },
+  {
+    "category_id": "cat_private_investigation",
+    "name": "Private Investigation"
+  },
+  {
+    "category_id": "cat_sushi_bars",
+    "name": "Sushi Bars"
+  },
+  {
+    "category_id": "cat_data_recovery",
+    "name": "Data Recovery"
+  },
+  {
+    "category_id": "cat_home_network_installation",
+    "name": "Home Network Installation"
+  },
+  {
+    "category_id": "cat_it_services___computer_repair",
+    "name": "IT Services & Computer Repair"
+  },
+  {
+    "category_id": "cat_banks___credit_unions",
+    "name": "Banks & Credit Unions"
+  },
+  {
+    "category_id": "cat_blow_dry_out_services",
+    "name": "Blow Dry/Out Services"
+  },
+  {
+    "category_id": "cat_cocktail_bars",
+    "name": "Cocktail Bars"
+  },
+  {
+    "category_id": "cat_thrift_stores",
+    "name": "Thrift Stores"
+  },
+  {
+    "category_id": "cat_cycling_classes",
+    "name": "Cycling Classes"
+  },
+  {
+    "category_id": "cat_circuit_training_gyms",
+    "name": "Circuit Training Gyms"
+  },
+  {
+    "category_id": "cat_chiropractors",
+    "name": "Chiropractors"
+  },
+  {
+    "category_id": "cat_buses",
+    "name": "Buses"
+  },
+  {
+    "category_id": "cat_bus_rental",
+    "name": "Bus Rental"
+  },
+  {
+    "category_id": "cat_bus_tours",
+    "name": "Bus Tours"
+  },
+  {
+    "category_id": "cat_farmers_market",
+    "name": "Farmers Market"
+  },
+  {
+    "category_id": "cat_outdoor_gear",
+    "name": "Outdoor Gear"
+  },
+  {
+    "category_id": "cat_hats",
+    "name": "Hats"
+  },
+  {
+    "category_id": "cat_souvenir_shops",
+    "name": "Souvenir Shops"
+  },
+  {
+    "category_id": "cat_surf_shop",
+    "name": "Surf Shop"
+  },
+  {
+    "category_id": "cat_swimwear",
+    "name": "Swimwear"
+  },
+  {
+    "category_id": "cat_wheel___rim_repair",
+    "name": "Wheel & Rim Repair"
+  },
+  {
+    "category_id": "cat_courthouses",
+    "name": "Courthouses"
+  },
+  {
+    "category_id": "cat_fertility",
+    "name": "Fertility"
+  },
+  {
+    "category_id": "cat_tapas_bars",
+    "name": "Tapas Bars"
+  },
+  {
+    "category_id": "cat_spanish",
+    "name": "Spanish"
+  },
+  {
+    "category_id": "cat_latin_american",
+    "name": "Latin American"
+  },
+  {
+    "category_id": "cat_toy_stores",
+    "name": "Toy Stores"
+  },
+  {
+    "category_id": "cat_video_game_stores",
+    "name": "Video Game Stores"
+  },
+  {
+    "category_id": "cat_videos___video_game_rental",
+    "name": "Videos & Video Game Rental"
+  },
+  {
+    "category_id": "cat_hobby_shops",
+    "name": "Hobby Shops"
+  },
+  {
+    "category_id": "cat_electronics",
+    "name": "Electronics"
+  },
+  {
+    "category_id": "cat_dry_cleaning___laundry",
+    "name": "Dry Cleaning & Laundry"
+  },
+  {
+    "category_id": "cat_japanese",
+    "name": "Japanese"
+  },
+  {
+    "category_id": "cat_korean",
+    "name": "Korean"
+  },
+  {
+    "category_id": "cat_asian_fusion",
+    "name": "Asian Fusion"
+  },
+  {
+    "category_id": "cat_children_s_museums",
+    "name": "Children's Museums"
+  },
+  {
+    "category_id": "cat_art_museums",
+    "name": "Art Museums"
+  },
+  {
+    "category_id": "cat_drugstores",
+    "name": "Drugstores"
+  },
+  {
+    "category_id": "cat_club_crawl",
+    "name": "Club Crawl"
+  },
+  {
+    "category_id": "cat_radio_stations",
+    "name": "Radio Stations"
+  },
+  {
+    "category_id": "cat_electronics_repair",
+    "name": "Electronics Repair"
+  },
+  {
+    "category_id": "cat_home_theatre_installation",
+    "name": "Home Theatre Installation"
+  },
+  {
+    "category_id": "cat_high_fidelity_audio_equipment",
+    "name": "High Fidelity Audio Equipment"
+  },
+  {
+    "category_id": "cat_home_automation",
+    "name": "Home Automation"
+  },
+  {
+    "category_id": "cat_mass_media",
+    "name": "Mass Media"
+  },
+  {
+    "category_id": "cat_music_venues",
+    "name": "Music Venues"
+  },
+  {
+    "category_id": "cat_piano_bars",
+    "name": "Piano Bars"
+  },
+  {
+    "category_id": "cat_lounges",
+    "name": "Lounges"
+  },
+  {
+    "category_id": "cat_dance_clubs",
+    "name": "Dance Clubs"
+  },
+  {
+    "category_id": "cat_colonics",
+    "name": "Colonics"
+  },
+  {
+    "category_id": "cat_medical_spas",
+    "name": "Medical Spas"
+  },
+  {
+    "category_id": "cat_shaved_ice",
+    "name": "Shaved Ice"
+  },
+  {
+    "category_id": "cat_pet_groomers",
+    "name": "Pet Groomers"
+  },
+  {
+    "category_id": "cat_pharmacy",
+    "name": "Pharmacy"
+  },
+  {
+    "category_id": "cat_dive_bars",
+    "name": "Dive Bars"
+  },
+  {
+    "category_id": "cat_bed___breakfast",
+    "name": "Bed & Breakfast"
+  },
+  {
+    "category_id": "cat_oral_surgeons",
+    "name": "Oral Surgeons"
+  },
+  {
+    "category_id": "cat_cosmetic_dentists",
+    "name": "Cosmetic Dentists"
+  },
+  {
+    "category_id": "cat_performing_arts",
+    "name": "Performing Arts"
+  },
+  {
+    "category_id": "cat_ticket_sales",
+    "name": "Ticket Sales"
+  },
+  {
+    "category_id": "cat_community_service_non_profit",
+    "name": "Community Service/Non-Profit"
+  },
+  {
+    "category_id": "cat_fireplace_services",
+    "name": "Fireplace Services"
+  },
+  {
+    "category_id": "cat_heating___air_conditioning_hvac",
+    "name": "Heating & Air Conditioning/HVAC"
+  },
+  {
+    "category_id": "cat_formal_wear",
+    "name": "Formal Wear"
+  },
+  {
+    "category_id": "cat_dry_cleaning",
+    "name": "Dry Cleaning"
+  },
+  {
+    "category_id": "cat_interval_training_gyms",
+    "name": "Interval Training Gyms"
+  },
+  {
+    "category_id": "cat_damage_restoration",
+    "name": "Damage Restoration"
+  },
+  {
+    "category_id": "cat_new_mexican_cuisine",
+    "name": "New Mexican Cuisine"
+  },
+  {
+    "category_id": "cat_shoe_stores",
+    "name": "Shoe Stores"
+  },
+  {
+    "category_id": "cat_party_equipment_rentals",
+    "name": "Party Equipment Rentals"
+  },
+  {
+    "category_id": "cat_street_vendors",
+    "name": "Street Vendors"
+  },
+  {
+    "category_id": "cat_beaches",
+    "name": "Beaches"
+  },
+  {
+    "category_id": "cat_apartments",
+    "name": "Apartments"
+  },
+  {
+    "category_id": "cat_family_practice",
+    "name": "Family Practice"
+  },
+  {
+    "category_id": "cat_cupcakes",
+    "name": "Cupcakes"
+  },
+  {
+    "category_id": "cat_public_art",
+    "name": "Public Art"
+  },
+  {
+    "category_id": "cat_marketing",
+    "name": "Marketing"
+  },
+  {
+    "category_id": "cat_web_design",
+    "name": "Web Design"
+  },
+  {
+    "category_id": "cat_graphic_design",
+    "name": "Graphic Design"
+  },
+  {
+    "category_id": "cat_summer_camps",
+    "name": "Summer Camps"
+  },
+  {
+    "category_id": "cat_tax_services",
+    "name": "Tax Services"
+  },
+  {
+    "category_id": "cat_accountants",
+    "name": "Accountants"
+  },
+  {
+    "category_id": "cat_pressure_washers",
+    "name": "Pressure Washers"
+  },
+  {
+    "category_id": "cat_home_staging",
+    "name": "Home Staging"
+  },
+  {
+    "category_id": "cat_real_estate_photography",
+    "name": "Real Estate Photography"
+  },
+  {
+    "category_id": "cat_gastropubs",
+    "name": "Gastropubs"
+  },
+  {
+    "category_id": "cat_pediatricians",
+    "name": "Pediatricians"
+  },
+  {
+    "category_id": "cat_botanical_gardens",
+    "name": "Botanical Gardens"
+  },
+  {
+    "category_id": "cat_car_share_services",
+    "name": "Car Share Services"
+  },
+  {
+    "category_id": "cat_shoe_repair",
+    "name": "Shoe Repair"
+  },
+  {
+    "category_id": "cat_yoga",
+    "name": "Yoga"
+  },
+  {
+    "category_id": "cat_signmaking",
+    "name": "Signmaking"
+  },
+  {
+    "category_id": "cat_preschools",
+    "name": "Preschools"
+  },
+  {
+    "category_id": "cat_elementary_schools",
+    "name": "Elementary Schools"
+  },
+  {
+    "category_id": "cat_colleges___universities",
+    "name": "Colleges & Universities"
+  },
+  {
+    "category_id": "cat_brazilian_jiu_jitsu",
+    "name": "Brazilian Jiu-jitsu"
+  },
+  {
+    "category_id": "cat_martial_arts",
+    "name": "Martial Arts"
+  },
+  {
+    "category_id": "cat_kickboxing",
+    "name": "Kickboxing"
+  },
+  {
+    "category_id": "cat_boxing",
+    "name": "Boxing"
+  },
+  {
+    "category_id": "cat_mobile_phones",
+    "name": "Mobile Phones"
+  },
+  {
+    "category_id": "cat_internet_service_providers",
+    "name": "Internet Service Providers"
+  },
+  {
+    "category_id": "cat_motorcycle_repair",
+    "name": "Motorcycle Repair"
+  },
+  {
+    "category_id": "cat_barbeque",
+    "name": "Barbeque"
+  },
+  {
+    "category_id": "cat_fruits___veggies",
+    "name": "Fruits & Veggies"
+  },
+  {
+    "category_id": "cat_nanny_services",
+    "name": "Nanny Services"
+  },
+  {
+    "category_id": "cat_endodontists",
+    "name": "Endodontists"
+  },
+  {
+    "category_id": "cat_video_film_production",
+    "name": "Video/Film Production"
+  },
+  {
+    "category_id": "cat_flooring",
+    "name": "Flooring"
+  },
+  {
+    "category_id": "cat_shades___blinds",
+    "name": "Shades & Blinds"
+  },
+  {
+    "category_id": "cat_carpeting",
+    "name": "Carpeting"
+  },
+  {
+    "category_id": "cat_bike_repair_maintenance",
+    "name": "Bike Repair/Maintenance"
+  },
+  {
+    "category_id": "cat_bike_rentals",
+    "name": "Bike Rentals"
+  },
+  {
+    "category_id": "cat_mortgage_brokers",
+    "name": "Mortgage Brokers"
+  },
+  {
+    "category_id": "cat_police_departments",
+    "name": "Police Departments"
+  },
+  {
+    "category_id": "cat_seafood_markets",
+    "name": "Seafood Markets"
+  },
+  {
+    "category_id": "cat_bagels",
+    "name": "Bagels"
+  },
+  {
+    "category_id": "cat_coffeeshops",
+    "name": "Coffeeshops"
+  },
+  {
+    "category_id": "cat_middle_schools___high_schools",
+    "name": "Middle Schools & High Schools"
+  },
+  {
+    "category_id": "cat_cinema",
+    "name": "Cinema"
+  },
+  {
+    "category_id": "cat_wallpapering",
+    "name": "Wallpapering"
+  },
+  {
+    "category_id": "cat_sewing___alterations",
+    "name": "Sewing & Alterations"
+  },
+  {
+    "category_id": "cat_assisted_living_facilities",
+    "name": "Assisted Living Facilities"
+  },
+  {
+    "category_id": "cat_retirement_homes",
+    "name": "Retirement Homes"
+  },
+  {
+    "category_id": "cat_counseling___mental_health",
+    "name": "Counseling & Mental Health"
+  },
+  {
+    "category_id": "cat_memory_care",
+    "name": "Memory Care"
+  },
+  {
+    "category_id": "cat_pool___hot_tub_service",
+    "name": "Pool & Hot Tub Service"
+  },
+  {
+    "category_id": "cat_local_fish_stores",
+    "name": "Local Fish Stores"
+  },
+  {
+    "category_id": "cat_hot_tub___pool",
+    "name": "Hot Tub & Pool"
+  },
+  {
+    "category_id": "cat_sugaring",
+    "name": "Sugaring"
+  },
+  {
+    "category_id": "cat_car_dealers",
+    "name": "Car Dealers"
+  },
+  {
+    "category_id": "cat_cooking_schools",
+    "name": "Cooking Schools"
+  },
+  {
+    "category_id": "cat_cooking_classes",
+    "name": "Cooking Classes"
+  },
+  {
+    "category_id": "cat_payroll_services",
+    "name": "Payroll Services"
+  },
+  {
+    "category_id": "cat_bookkeepers",
+    "name": "Bookkeepers"
+  },
+  {
+    "category_id": "cat_cosmetic_surgeons",
+    "name": "Cosmetic Surgeons"
+  },
+  {
+    "category_id": "cat_reflexology",
+    "name": "Reflexology"
+  },
+  {
+    "category_id": "cat_personal_care_services",
+    "name": "Personal Care Services"
+  },
+  {
+    "category_id": "cat_home_health_care",
+    "name": "Home Health Care"
+  },
+  {
+    "category_id": "cat_hospice",
+    "name": "Hospice"
+  },
+  {
+    "category_id": "cat_boat_charters",
+    "name": "Boat Charters"
+  },
+  {
+    "category_id": "cat_bridal",
+    "name": "Bridal"
+  },
+  {
+    "category_id": "cat_floral_designers",
+    "name": "Floral Designers"
+  },
+  {
+    "category_id": "cat_pet_photography",
+    "name": "Pet Photography"
+  },
+  {
+    "category_id": "cat_party_bus_rentals",
+    "name": "Party Bus Rentals"
+  },
+  {
+    "category_id": "cat_comedy_clubs",
+    "name": "Comedy Clubs"
+  },
+  {
+    "category_id": "cat_periodontists",
+    "name": "Periodontists"
+  },
+  {
+    "category_id": "cat_teeth_whitening",
+    "name": "Teeth Whitening"
+  },
+  {
+    "category_id": "cat_noodles",
+    "name": "Noodles"
+  },
+  {
+    "category_id": "cat_ramen",
+    "name": "Ramen"
+  },
+  {
+    "category_id": "cat_poke",
+    "name": "Poke"
+  },
+  {
+    "category_id": "cat_solar_installation",
+    "name": "Solar Installation"
+  },
+  {
+    "category_id": "cat_diagnostic_imaging",
+    "name": "Diagnostic Imaging"
+  },
+  {
+    "category_id": "cat_orthodontists",
+    "name": "Orthodontists"
+  },
+  {
+    "category_id": "cat_diagnostic_services",
+    "name": "Diagnostic Services"
+  },
+  {
+    "category_id": "cat_vacation_rental_agents",
+    "name": "Vacation Rental Agents"
+  },
+  {
+    "category_id": "cat_post_offices",
+    "name": "Post Offices"
+  },
+  {
+    "category_id": "cat_building_supplies",
+    "name": "Building Supplies"
+  },
+  {
+    "category_id": "cat_insulation_installation",
+    "name": "Insulation Installation"
+  },
+  {
+    "category_id": "cat_social_clubs",
+    "name": "Social Clubs"
+  },
+  {
+    "category_id": "cat_allergists",
+    "name": "Allergists"
+  },
+  {
+    "category_id": "cat_tapas_small_plates",
+    "name": "Tapas/Small Plates"
+  },
+  {
+    "category_id": "cat_cpr_classes",
+    "name": "CPR Classes"
+  },
+  {
+    "category_id": "cat_massage_therapy",
+    "name": "Massage Therapy"
+  },
+  {
+    "category_id": "cat_lactation_services",
+    "name": "Lactation Services"
+  },
+  {
+    "category_id": "cat_midwives",
+    "name": "Midwives"
+  },
+  {
+    "category_id": "cat_childbirth_education",
+    "name": "Childbirth Education"
+  },
+  {
+    "category_id": "cat_doulas",
+    "name": "Doulas"
+  },
+  {
+    "category_id": "cat_prenatal_perinatal_care",
+    "name": "Prenatal/Perinatal Care"
+  },
+  {
+    "category_id": "cat_custom_cakes",
+    "name": "Custom Cakes"
+  },
+  {
+    "category_id": "cat_rehabilitation_center",
+    "name": "Rehabilitation Center"
+  },
+  {
+    "category_id": "cat_patisserie_cake_shop",
+    "name": "Patisserie/Cake Shop"
+  },
+  {
+    "category_id": "cat_wildlife_control",
+    "name": "Wildlife Control"
+  },
+  {
+    "category_id": "cat_travel_services",
+    "name": "Travel Services"
+  },
+  {
+    "category_id": "cat_videographers",
+    "name": "Videographers"
+  },
+  {
+    "category_id": "cat_couriers___delivery_services",
+    "name": "Couriers & Delivery Services"
+  },
+  {
+    "category_id": "cat_roofing",
+    "name": "Roofing"
+  },
+  {
+    "category_id": "cat_chimney_sweeps",
+    "name": "Chimney Sweeps"
+  },
+  {
+    "category_id": "cat_lighting_fixtures___equipment",
+    "name": "Lighting Fixtures & Equipment"
+  },
+  {
+    "category_id": "cat_golf",
+    "name": "Golf"
+  },
+  {
+    "category_id": "cat_golf_equipment",
+    "name": "Golf Equipment"
+  },
+  {
+    "category_id": "cat_disc_golf",
+    "name": "Disc Golf"
+  },
+  {
+    "category_id": "cat_insurance",
+    "name": "Insurance"
+  },
+  {
+    "category_id": "cat_structural_engineers",
+    "name": "Structural Engineers"
+  },
+  {
+    "category_id": "cat_drywall_installation___repair",
+    "name": "Drywall Installation & Repair"
+  },
+  {
+    "category_id": "cat_perfume",
+    "name": "Perfume"
+  },
+  {
+    "category_id": "cat_chicken_shop",
+    "name": "Chicken Shop"
+  },
+  {
+    "category_id": "cat_photo_booth_rentals",
+    "name": "Photo Booth Rentals"
+  },
+  {
+    "category_id": "cat_beer_gardens",
+    "name": "Beer Gardens"
+  },
+  {
+    "category_id": "cat_auto_customization",
+    "name": "Auto Customization"
+  },
+  {
+    "category_id": "cat_movers",
+    "name": "Movers"
+  },
+  {
+    "category_id": "cat_business_law",
+    "name": "Business Law"
+  },
+  {
+    "category_id": "cat_estate_planning_law",
+    "name": "Estate Planning Law"
+  },
+  {
+    "category_id": "cat_flight_instruction",
+    "name": "Flight Instruction"
+  },
+  {
+    "category_id": "cat_pop_up_restaurants",
+    "name": "Pop-Up Restaurants"
+  },
+  {
+    "category_id": "cat_smog_check_stations",
+    "name": "Smog Check Stations"
+  },
+  {
+    "category_id": "cat_roadside_assistance",
+    "name": "Roadside Assistance"
+  },
+  {
+    "category_id": "cat_smokehouse",
+    "name": "Smokehouse"
+  },
+  {
+    "category_id": "cat_valet_services",
+    "name": "Valet Services"
+  },
+  {
+    "category_id": "cat_parking",
+    "name": "Parking"
+  },
+  {
+    "category_id": "cat_barre_classes",
+    "name": "Barre Classes"
+  },
+  {
+    "category_id": "cat_tree_services",
+    "name": "Tree Services"
+  },
+  {
+    "category_id": "cat_carpet_installation",
+    "name": "Carpet Installation"
+  },
+  {
+    "category_id": "cat_vape_shops",
+    "name": "Vape Shops"
+  },
+  {
+    "category_id": "cat_tobacco_shops",
+    "name": "Tobacco Shops"
+  },
+  {
+    "category_id": "cat_herbal_shops",
+    "name": "Herbal Shops"
+  },
+  {
+    "category_id": "cat_tenant_and_eviction_law",
+    "name": "Tenant and Eviction Law"
+  },
+  {
+    "category_id": "cat_general_litigation",
+    "name": "General Litigation"
+  },
+  {
+    "category_id": "cat_real_estate_law",
+    "name": "Real Estate Law"
+  },
+  {
+    "category_id": "cat_mediterranean",
+    "name": "Mediterranean"
+  },
+  {
+    "category_id": "cat_photography_stores___services",
+    "name": "Photography Stores & Services"
+  },
+  {
+    "category_id": "cat_pet_boarding",
+    "name": "Pet Boarding"
+  },
+  {
+    "category_id": "cat_life_insurance",
+    "name": "Life Insurance"
+  },
+  {
+    "category_id": "cat_auto_insurance",
+    "name": "Auto Insurance"
+  },
+  {
+    "category_id": "cat_home___rental_insurance",
+    "name": "Home & Rental Insurance"
+  },
+  {
+    "category_id": "cat_steakhouses",
+    "name": "Steakhouses"
+  },
+  {
+    "category_id": "cat_personal_chefs",
+    "name": "Personal Chefs"
+  },
+  {
+    "category_id": "cat_discount_store",
+    "name": "Discount Store"
+  },
+  {
+    "category_id": "cat_fitness_exercise_equipment",
+    "name": "Fitness/Exercise Equipment"
+  },
+  {
+    "category_id": "cat_kids_hair_salons",
+    "name": "Kids Hair Salons"
+  },
+  {
+    "category_id": "cat_air_duct_cleaning",
+    "name": "Air Duct Cleaning"
+  },
+  {
+    "category_id": "cat_water_heater_installation_repair",
+    "name": "Water Heater Installation/Repair"
+  },
+  {
+    "category_id": "cat_sports_clubs",
+    "name": "Sports Clubs"
+  },
+  {
+    "category_id": "cat_guns___ammo",
+    "name": "Guns & Ammo"
+  },
+  {
+    "category_id": "cat_archery",
+    "name": "Archery"
+  },
+  {
+    "category_id": "cat_gun_rifle_ranges",
+    "name": "Gun/Rifle Ranges"
+  },
+  {
+    "category_id": "cat_departments_of_motor_vehicles",
+    "name": "Departments of Motor Vehicles"
+  },
+  {
+    "category_id": "cat_psychiatrists",
+    "name": "Psychiatrists"
+  },
+  {
+    "category_id": "cat_acne_treatment",
+    "name": "Acne Treatment"
+  },
+  {
+    "category_id": "cat_funeral_services___cemeteries",
+    "name": "Funeral Services & Cemeteries"
+  },
+  {
+    "category_id": "cat_packing_supplies",
+    "name": "Packing Supplies"
+  },
+  {
+    "category_id": "cat_office_equipment",
+    "name": "Office Equipment"
+  },
+  {
+    "category_id": "cat_emergency_pet_hospital",
+    "name": "Emergency Pet Hospital"
+  },
+  {
+    "category_id": "cat_leather_goods",
+    "name": "Leather Goods"
+  },
+  {
+    "category_id": "cat_customized_merchandise",
+    "name": "Customized Merchandise"
+  },
+  {
+    "category_id": "cat_septic_services",
+    "name": "Septic Services"
+  },
+  {
+    "category_id": "cat_furniture_repair",
+    "name": "Furniture Repair"
+  },
+  {
+    "category_id": "cat_refinishing_services",
+    "name": "Refinishing Services"
+  },
+  {
+    "category_id": "cat_beer_tours",
+    "name": "Beer Tours"
+  },
+  {
+    "category_id": "cat_gymnastics",
+    "name": "Gymnastics"
+  },
+  {
+    "category_id": "cat_professional_sports_teams",
+    "name": "Professional Sports Teams"
+  },
+  {
+    "category_id": "cat_art_supplies",
+    "name": "Art Supplies"
+  },
+  {
+    "category_id": "cat_painters",
+    "name": "Painters"
+  },
+  {
+    "category_id": "cat_horseback_riding",
+    "name": "Horseback Riding"
+  },
+  {
+    "category_id": "cat_dance_studios",
+    "name": "Dance Studios"
+  },
+  {
+    "category_id": "cat_henna_artists",
+    "name": "Henna Artists"
+  },
+  {
+    "category_id": "cat_face_painting",
+    "name": "Face Painting"
+  },
+  {
+    "category_id": "cat_threading_services",
+    "name": "Threading Services"
+  },
+  {
+    "category_id": "cat_mortgage_lenders",
+    "name": "Mortgage Lenders"
+  },
+  {
+    "category_id": "cat_pediatric_dentists",
+    "name": "Pediatric Dentists"
+  },
+  {
+    "category_id": "cat_internal_medicine",
+    "name": "Internal Medicine"
+  },
+  {
+    "category_id": "cat_amateur_sports_teams",
+    "name": "Amateur Sports Teams"
+  },
+  {
+    "category_id": "cat_muay_thai",
+    "name": "Muay Thai"
+  },
+  {
+    "category_id": "cat_cajun_creole",
+    "name": "Cajun/Creole"
+  },
+  {
+    "category_id": "cat_iv_hydration",
+    "name": "IV Hydration"
+  },
+  {
+    "category_id": "cat_preventive_medicine",
+    "name": "Preventive Medicine"
+  },
+  {
+    "category_id": "cat_vitamins___supplements",
+    "name": "Vitamins & Supplements"
+  },
+  {
+    "category_id": "cat_hospitals",
+    "name": "Hospitals"
+  },
+  {
+    "category_id": "cat_utilities",
+    "name": "Utilities"
+  },
+  {
+    "category_id": "cat_water_purification_services",
+    "name": "Water Purification Services"
+  },
+  {
+    "category_id": "cat_hot_pot",
+    "name": "Hot Pot"
+  },
+  {
+    "category_id": "cat_gutter_services",
+    "name": "Gutter Services"
+  },
+  {
+    "category_id": "cat_propane",
+    "name": "Propane"
+  },
+  {
+    "category_id": "cat_aquariums",
+    "name": "Aquariums"
+  },
+  {
+    "category_id": "cat_soul_food",
+    "name": "Soul Food"
+  },
+  {
+    "category_id": "cat_comfort_food",
+    "name": "Comfort Food"
+  },
+  {
+    "category_id": "cat_travel_agents",
+    "name": "Travel Agents"
+  },
+  {
+    "category_id": "cat_grout_services",
+    "name": "Grout Services"
+  },
+  {
+    "category_id": "cat_car_window_tinting",
+    "name": "Car Window Tinting"
+  },
+  {
+    "category_id": "cat_car_stereo_installation",
+    "name": "Car Stereo Installation"
+  },
+  {
+    "category_id": "cat_jewelry_repair",
+    "name": "Jewelry Repair"
+  },
+  {
+    "category_id": "cat_climbing",
+    "name": "Climbing"
+  },
+  {
+    "category_id": "cat_wigs",
+    "name": "Wigs"
+  },
+  {
+    "category_id": "cat_costumes",
+    "name": "Costumes"
+  },
+  {
+    "category_id": "cat_security_services",
+    "name": "Security Services"
+  },
+  {
+    "category_id": "cat_fire_protection_services",
+    "name": "Fire Protection Services"
+  },
+  {
+    "category_id": "cat_watches",
+    "name": "Watches"
+  },
+  {
+    "category_id": "cat_water_delivery",
+    "name": "Water Delivery"
+  },
+  {
+    "category_id": "cat_psychologists",
+    "name": "Psychologists"
+  },
+  {
+    "category_id": "cat_hawaiian",
+    "name": "Hawaiian"
+  },
+  {
+    "category_id": "cat_artificial_turf",
+    "name": "Artificial Turf"
+  },
+  {
+    "category_id": "cat_lawn_services",
+    "name": "Lawn Services"
+  },
+  {
+    "category_id": "cat_australian",
+    "name": "Australian"
+  },
+  {
+    "category_id": "cat_demolition_services",
+    "name": "Demolition Services"
+  },
+  {
+    "category_id": "cat_mobile_phone_repair",
+    "name": "Mobile Phone Repair"
+  },
+  {
+    "category_id": "cat_knitting_supplies",
+    "name": "Knitting Supplies"
+  },
+  {
+    "category_id": "cat_emergency_rooms",
+    "name": "Emergency Rooms"
+  },
+  {
+    "category_id": "cat_organic_stores",
+    "name": "Organic Stores"
+  },
+  {
+    "category_id": "cat_meat_shops",
+    "name": "Meat Shops"
+  },
+  {
+    "category_id": "cat_wedding_chapels",
+    "name": "Wedding Chapels"
+  },
+  {
+    "category_id": "cat_luggage",
+    "name": "Luggage"
+  },
+  {
+    "category_id": "cat_countertop_installation",
+    "name": "Countertop Installation"
+  },
+  {
+    "category_id": "cat_diners",
+    "name": "Diners"
+  },
+  {
+    "category_id": "cat_auto_upholstery",
+    "name": "Auto Upholstery"
+  },
+  {
+    "category_id": "cat_cosmetology_schools",
+    "name": "Cosmetology Schools"
+  },
+  {
+    "category_id": "cat_screen_printing",
+    "name": "Screen Printing"
+  },
+  {
+    "category_id": "cat_powder_coating",
+    "name": "Powder Coating"
+  },
+  {
+    "category_id": "cat_clowns",
+    "name": "Clowns"
+  },
+  {
+    "category_id": "cat_magicians",
+    "name": "Magicians"
+  },
+  {
+    "category_id": "cat_party_characters",
+    "name": "Party Characters"
+  },
+  {
+    "category_id": "cat_tex_mex",
+    "name": "Tex-Mex"
+  },
+  {
+    "category_id": "cat_airlines",
+    "name": "Airlines"
+  },
+  {
+    "category_id": "cat_saunas",
+    "name": "Saunas"
+  },
+  {
+    "category_id": "cat_scuba_diving",
+    "name": "Scuba Diving"
+  },
+  {
+    "category_id": "cat_diving",
+    "name": "Diving"
+  },
+  {
+    "category_id": "cat_landscape_architects",
+    "name": "Landscape Architects"
+  },
+  {
+    "category_id": "cat_check_cashing_pay_day_loans",
+    "name": "Check Cashing/Pay-day Loans"
+  },
+  {
+    "category_id": "cat_pawn_shops",
+    "name": "Pawn Shops"
+  },
+  {
+    "category_id": "cat_gold_buyers",
+    "name": "Gold Buyers"
+  },
+  {
+    "category_id": "cat_fences___gates",
+    "name": "Fences & Gates"
+  },
+  {
+    "category_id": "cat_donuts",
+    "name": "Donuts"
+  },
+  {
+    "category_id": "cat_amusement_parks",
+    "name": "Amusement Parks"
+  },
+  {
+    "category_id": "cat_carousels",
+    "name": "Carousels"
+  },
+  {
+    "category_id": "cat_empanadas",
+    "name": "Empanadas"
+  },
+  {
+    "category_id": "cat_beverage_store",
+    "name": "Beverage Store"
+  },
+  {
+    "category_id": "cat_tiling",
+    "name": "Tiling"
+  },
+  {
+    "category_id": "cat_do_it_yourself_food",
+    "name": "Do-It-Yourself Food"
+  },
+  {
+    "category_id": "cat_creperies",
+    "name": "Creperies"
+  },
+  {
+    "category_id": "cat_junk_removal___hauling",
+    "name": "Junk Removal & Hauling"
+  },
+  {
+    "category_id": "cat_packing_services",
+    "name": "Packing Services"
+  },
+  {
+    "category_id": "cat_watch_repair",
+    "name": "Watch Repair"
+  },
+  {
+    "category_id": "cat_public_relations",
+    "name": "Public Relations"
+  },
+  {
+    "category_id": "cat_ethnic_food",
+    "name": "Ethnic Food"
+  },
+  {
+    "category_id": "cat_middle_eastern",
+    "name": "Middle Eastern"
+  },
+  {
+    "category_id": "cat_gemstones___minerals",
+    "name": "Gemstones & Minerals"
+  },
+  {
+    "category_id": "cat_farms",
+    "name": "Farms"
+  },
+  {
+    "category_id": "cat_ear_nose___throat",
+    "name": "Ear Nose & Throat"
+  },
+  {
+    "category_id": "cat_reiki",
+    "name": "Reiki"
+  },
+  {
+    "category_id": "cat_dance_wear",
+    "name": "Dance Wear"
+  },
+  {
+    "category_id": "cat_glass___mirrors",
+    "name": "Glass & Mirrors"
+  },
+  {
+    "category_id": "cat_door_sales_installation",
+    "name": "Door Sales/Installation"
+  },
+  {
+    "category_id": "cat_dog_walkers",
+    "name": "Dog Walkers"
+  },
+  {
+    "category_id": "cat_advertising",
+    "name": "Advertising"
+  },
+  {
+    "category_id": "cat_skilled_nursing",
+    "name": "Skilled Nursing"
+  },
+  {
+    "category_id": "cat_libraries",
+    "name": "Libraries"
+  },
+  {
+    "category_id": "cat_appraisal_services",
+    "name": "Appraisal Services"
+  },
+  {
+    "category_id": "cat_mobile_phone_accessories",
+    "name": "Mobile Phone Accessories"
+  },
+  {
+    "category_id": "cat_kids_activities",
+    "name": "Kids Activities"
+  },
+  {
+    "category_id": "cat_psychics",
+    "name": "Psychics"
+  },
+  {
+    "category_id": "cat_supernatural_readings",
+    "name": "Supernatural Readings"
+  },
+  {
+    "category_id": "cat_ev_charging_stations",
+    "name": "EV Charging Stations"
+  },
+  {
+    "category_id": "cat_cheese_shops",
+    "name": "Cheese Shops"
+  },
+  {
+    "category_id": "cat_fishing",
+    "name": "Fishing"
+  },
+  {
+    "category_id": "cat_telecommunications",
+    "name": "Telecommunications"
+  },
+  {
+    "category_id": "cat_tasting_classes",
+    "name": "Tasting Classes"
+  },
+  {
+    "category_id": "cat_wine_tasting_classes",
+    "name": "Wine Tasting Classes"
+  },
+  {
+    "category_id": "cat_medical_transportation",
+    "name": "Medical Transportation"
+  },
+  {
+    "category_id": "cat_scooter_rentals",
+    "name": "Scooter Rentals"
+  },
+  {
+    "category_id": "cat_wills",
+    "name": "Wills"
+  },
+  {
+    "category_id": "cat_trusts",
+    "name": "Trusts"
+  },
+  {
+    "category_id": "cat___probates",
+    "name": "& Probates"
+  },
+  {
+    "category_id": "cat_legal_services",
+    "name": "Legal Services"
+  },
+  {
+    "category_id": "cat_tax_law",
+    "name": "Tax Law"
+  },
+  {
+    "category_id": "cat_cards___stationery",
+    "name": "Cards & Stationery"
+  },
+  {
+    "category_id": "cat_plastic_surgeons",
+    "name": "Plastic Surgeons"
+  },
+  {
+    "category_id": "cat_brazilian",
+    "name": "Brazilian"
+  },
+  {
+    "category_id": "cat_public_transportation",
+    "name": "Public Transportation"
+  },
+  {
+    "category_id": "cat_firearm_training",
+    "name": "Firearm Training"
+  },
+  {
+    "category_id": "cat_dermatologists",
+    "name": "Dermatologists"
+  },
+  {
+    "category_id": "cat_crane_services",
+    "name": "Crane Services"
+  },
+  {
+    "category_id": "cat_strip_clubs",
+    "name": "Strip Clubs"
+  },
+  {
+    "category_id": "cat_concierge_medicine",
+    "name": "Concierge Medicine"
+  },
+  {
+    "category_id": "cat_pulmonologist",
+    "name": "Pulmonologist"
+  },
+  {
+    "category_id": "cat_urgent_care",
+    "name": "Urgent Care"
+  },
+  {
+    "category_id": "cat_meditation_centers",
+    "name": "Meditation Centers"
+  },
+  {
+    "category_id": "cat_astrologers",
+    "name": "Astrologers"
+  },
+  {
+    "category_id": "cat_spiritual_shop",
+    "name": "Spiritual Shop"
+  },
+  {
+    "category_id": "cat_psychic_mediums",
+    "name": "Psychic Mediums"
+  },
+  {
+    "category_id": "cat_laundromat",
+    "name": "Laundromat"
+  },
+  {
+    "category_id": "cat_art_classes",
+    "name": "Art Classes"
+  },
+  {
+    "category_id": "cat_whale_watching_tours",
+    "name": "Whale Watching Tours"
+  },
+  {
+    "category_id": "cat_silent_disco",
+    "name": "Silent Disco"
+  },
+  {
+    "category_id": "cat_fish___chips",
+    "name": "Fish & Chips"
+  },
+  {
+    "category_id": "cat_registration_services",
+    "name": "Registration Services"
+  },
+  {
+    "category_id": "cat_roof_inspectors",
+    "name": "Roof Inspectors"
+  },
+  {
+    "category_id": "cat_greek",
+    "name": "Greek"
+  },
+  {
+    "category_id": "cat_karate",
+    "name": "Karate"
+  },
+  {
+    "category_id": "cat_self_defense_classes",
+    "name": "Self-defense Classes"
+  },
+  {
+    "category_id": "cat_mongolian",
+    "name": "Mongolian"
+  },
+  {
+    "category_id": "cat_special_education",
+    "name": "Special Education"
+  },
+  {
+    "category_id": "cat_tutoring_centers",
+    "name": "Tutoring Centers"
+  },
+  {
+    "category_id": "cat_chocolatiers___shops",
+    "name": "Chocolatiers & Shops"
+  },
+  {
+    "category_id": "cat_historical_tours",
+    "name": "Historical Tours"
+  },
+  {
+    "category_id": "cat_internet_cafes",
+    "name": "Internet Cafes"
+  },
+  {
+    "category_id": "cat_resorts",
+    "name": "Resorts"
+  },
+  {
+    "category_id": "cat_hookah_bars",
+    "name": "Hookah Bars"
+  },
+  {
+    "category_id": "cat_architects",
+    "name": "Architects"
+  },
+  {
+    "category_id": "cat_computers",
+    "name": "Computers"
+  },
+  {
+    "category_id": "cat_boudoir_photography",
+    "name": "Boudoir Photography"
+  },
+  {
+    "category_id": "cat_international_grocery",
+    "name": "International Grocery"
+  },
+  {
+    "category_id": "cat_vehicle_shipping",
+    "name": "Vehicle Shipping"
+  },
+  {
+    "category_id": "cat_university_housing",
+    "name": "University Housing"
+  },
+  {
+    "category_id": "cat_soccer",
+    "name": "Soccer"
+  },
+  {
+    "category_id": "cat_cremation_services",
+    "name": "Cremation Services"
+  },
+  {
+    "category_id": "cat_jazz___blues",
+    "name": "Jazz & Blues"
+  },
+  {
+    "category_id": "cat_champagne_bars",
+    "name": "Champagne Bars"
+  },
+  {
+    "category_id": "cat_attraction_farms",
+    "name": "Attraction Farms"
+  },
+  {
+    "category_id": "cat_candy_stores",
+    "name": "Candy Stores"
+  },
+  {
+    "category_id": "cat_ranches",
+    "name": "Ranches"
+  },
+  {
+    "category_id": "cat_taiwanese",
+    "name": "Taiwanese"
+  },
+  {
+    "category_id": "cat_herbs___spices",
+    "name": "Herbs & Spices"
+  },
+  {
+    "category_id": "cat_olive_oil",
+    "name": "Olive Oil"
+  },
+  {
+    "category_id": "cat_walking_tours",
+    "name": "Walking Tours"
+  },
+  {
+    "category_id": "cat_commercial_real_estate",
+    "name": "Commercial Real Estate"
+  },
+  {
+    "category_id": "cat_process_servers",
+    "name": "Process Servers"
+  },
+  {
+    "category_id": "cat_tennis",
+    "name": "Tennis"
+  },
+  {
+    "category_id": "cat_cardiologists",
+    "name": "Cardiologists"
+  },
+  {
+    "category_id": "cat_health_insurance_offices",
+    "name": "Health Insurance Offices"
+  },
+  {
+    "category_id": "cat_planetarium",
+    "name": "Planetarium"
+  },
+  {
+    "category_id": "cat_pakistani",
+    "name": "Pakistani"
+  },
+  {
+    "category_id": "cat_furniture_rental",
+    "name": "Furniture Rental"
+  },
+  {
+    "category_id": "cat_speakeasies",
+    "name": "Speakeasies"
+  },
+  {
+    "category_id": "cat_personal_injury_law",
+    "name": "Personal Injury Law"
+  },
+  {
+    "category_id": "cat_workers_compensation_law",
+    "name": "Workers Compensation Law"
+  },
+  {
+    "category_id": "cat_qi_gong",
+    "name": "Qi Gong"
+  },
+  {
+    "category_id": "cat_hypnosis_hypnotherapy",
+    "name": "Hypnosis/Hypnotherapy"
+  },
+  {
+    "category_id": "cat_recycling_center",
+    "name": "Recycling Center"
+  },
+  {
+    "category_id": "cat_carpenters",
+    "name": "Carpenters"
+  },
+  {
+    "category_id": "cat_food_tours",
+    "name": "Food Tours"
+  },
+  {
+    "category_id": "cat_art_tours",
+    "name": "Art Tours"
+  },
+  {
+    "category_id": "cat_rv_parks",
+    "name": "RV Parks"
+  },
+  {
+    "category_id": "cat_garage_door_services",
+    "name": "Garage Door Services"
+  },
+  {
+    "category_id": "cat_nurse_practitioner",
+    "name": "Nurse Practitioner"
+  },
+  {
+    "category_id": "cat_imported_food",
+    "name": "Imported Food"
+  },
+  {
+    "category_id": "cat_trophy_shops",
+    "name": "Trophy Shops"
+  },
+  {
+    "category_id": "cat_engraving",
+    "name": "Engraving"
+  },
+  {
+    "category_id": "cat_hang_gliding",
+    "name": "Hang Gliding"
+  },
+  {
+    "category_id": "cat_paragliding",
+    "name": "Paragliding"
+  },
+  {
+    "category_id": "cat_sex_therapists",
+    "name": "Sex Therapists"
+  },
+  {
+    "category_id": "cat_addiction_medicine",
+    "name": "Addiction Medicine"
+  },
+  {
+    "category_id": "cat_farming_equipment",
+    "name": "Farming Equipment"
+  },
+  {
+    "category_id": "cat_boat_tours",
+    "name": "Boat Tours"
+  },
+  {
+    "category_id": "cat_party_bike_rentals",
+    "name": "Party Bike Rentals"
+  },
+  {
+    "category_id": "cat_radiologists",
+    "name": "Radiologists"
+  },
+  {
+    "category_id": "cat_audio_visual_equipment_rental",
+    "name": "Audio/Visual Equipment Rental"
+  },
+  {
+    "category_id": "cat_furniture_assembly",
+    "name": "Furniture Assembly"
+  },
+  {
+    "category_id": "cat_guest_houses",
+    "name": "Guest Houses"
+  },
+  {
+    "category_id": "cat_pool_cleaners",
+    "name": "Pool Cleaners"
+  },
+  {
+    "category_id": "cat_golf_equipment_shops",
+    "name": "Golf Equipment Shops"
+  },
+  {
+    "category_id": "cat_pool_halls",
+    "name": "Pool Halls"
+  },
+  {
+    "category_id": "cat_spine_surgeons",
+    "name": "Spine Surgeons"
+  },
+  {
+    "category_id": "cat_mortuary_services",
+    "name": "Mortuary Services"
+  },
+  {
+    "category_id": "cat_music_production_services",
+    "name": "Music Production Services"
+  },
+  {
+    "category_id": "cat_metal_fabricators",
+    "name": "Metal Fabricators"
+  },
+  {
+    "category_id": "cat_massage_schools",
+    "name": "Massage Schools"
+  },
+  {
+    "category_id": "cat_rheumatologists",
+    "name": "Rheumatologists"
+  },
+  {
+    "category_id": "cat_pool___billiards",
+    "name": "Pool & Billiards"
+  },
+  {
+    "category_id": "cat_laser_hair_removal",
+    "name": "Laser Hair Removal"
+  },
+  {
+    "category_id": "cat_laboratory_testing",
+    "name": "Laboratory Testing"
+  },
+  {
+    "category_id": "cat_aestheticians",
+    "name": "Aestheticians"
+  },
+  {
+    "category_id": "cat_body_contouring",
+    "name": "Body Contouring"
+  },
+  {
+    "category_id": "cat_shredding_services",
+    "name": "Shredding Services"
+  },
+  {
+    "category_id": "cat_cardio_classes",
+    "name": "Cardio Classes"
+  },
+  {
+    "category_id": "cat_escape_games",
+    "name": "Escape Games"
+  },
+  {
+    "category_id": "cat_team_building_activities",
+    "name": "Team Building Activities"
+  },
+  {
+    "category_id": "cat_country_clubs",
+    "name": "Country Clubs"
+  },
+  {
+    "category_id": "cat_elder_care_planning",
+    "name": "Elder Care Planning"
+  },
+  {
+    "category_id": "cat_donation_center",
+    "name": "Donation Center"
+  },
+  {
+    "category_id": "cat_skate_parks",
+    "name": "Skate Parks"
+  },
+  {
+    "category_id": "cat_wholesalers",
+    "name": "Wholesalers"
+  },
+  {
+    "category_id": "cat_rolfing",
+    "name": "Rolfing"
+  },
+  {
+    "category_id": "cat_occupational_therapy",
+    "name": "Occupational Therapy"
+  },
+  {
+    "category_id": "cat_stucco_services",
+    "name": "Stucco Services"
+  },
+  {
+    "category_id": "cat_otologists",
+    "name": "Otologists"
+  },
+  {
+    "category_id": "cat_tabletop_games",
+    "name": "Tabletop Games"
+  },
+  {
+    "category_id": "cat_comic_books",
+    "name": "Comic Books"
+  },
+  {
+    "category_id": "cat_lakes",
+    "name": "Lakes"
+  },
+  {
+    "category_id": "cat_rv_dealers",
+    "name": "RV Dealers"
+  },
+  {
+    "category_id": "cat_health_coach",
+    "name": "Health Coach"
+  },
+  {
+    "category_id": "cat_prosthetics",
+    "name": "Prosthetics"
+  },
+  {
+    "category_id": "cat_driving_schools",
+    "name": "Driving Schools"
+  },
+  {
+    "category_id": "cat_kitchen_supplies",
+    "name": "Kitchen Supplies"
+  },
+  {
+    "category_id": "cat_educational_services",
+    "name": "Educational Services"
+  },
+  {
+    "category_id": "cat_television_service_providers",
+    "name": "Television Service Providers"
+  },
+  {
+    "category_id": "cat_firewood",
+    "name": "Firewood"
+  },
+  {
+    "category_id": "cat_cafeteria",
+    "name": "Cafeteria"
+  },
+  {
+    "category_id": "cat_christmas_trees",
+    "name": "Christmas Trees"
+  },
+  {
+    "category_id": "cat_pumpkin_patches",
+    "name": "Pumpkin Patches"
+  },
+  {
+    "category_id": "cat_windshield_installation___repair",
+    "name": "Windshield Installation & Repair"
+  },
+  {
+    "category_id": "cat_animal_physical_therapy",
+    "name": "Animal Physical Therapy"
+  },
+  {
+    "category_id": "cat_prosthodontists",
+    "name": "Prosthodontists"
+  },
+  {
+    "category_id": "cat_used_car_dealers",
+    "name": "Used Car Dealers"
+  },
+  {
+    "category_id": "cat_motorcycle_gear",
+    "name": "Motorcycle Gear"
+  },
+  {
+    "category_id": "cat_auction_houses",
+    "name": "Auction Houses"
+  },
+  {
+    "category_id": "cat_gay_bars",
+    "name": "Gay Bars"
+  },
+  {
+    "category_id": "cat_airports",
+    "name": "Airports"
+  },
+  {
+    "category_id": "cat_home_window_tinting",
+    "name": "Home Window Tinting"
+  },
+  {
+    "category_id": "cat_vehicle_wraps",
+    "name": "Vehicle Wraps"
+  },
+  {
+    "category_id": "cat_aerial_fitness",
+    "name": "Aerial Fitness"
+  },
+  {
+    "category_id": "cat_bowling",
+    "name": "Bowling"
+  },
+  {
+    "category_id": "cat_pet_hospice",
+    "name": "Pet Hospice"
+  },
+  {
+    "category_id": "cat_shutters",
+    "name": "Shutters"
+  },
+  {
+    "category_id": "cat_delicatessen",
+    "name": "Delicatessen"
+  },
+  {
+    "category_id": "cat_batting_cages",
+    "name": "Batting Cages"
+  },
+  {
+    "category_id": "cat_honey",
+    "name": "Honey"
+  },
+  {
+    "category_id": "cat_pet_transportation",
+    "name": "Pet Transportation"
+  },
+  {
+    "category_id": "cat_moroccan",
+    "name": "Moroccan"
+  },
+  {
+    "category_id": "cat_hostels",
+    "name": "Hostels"
+  },
+  {
+    "category_id": "cat_vascular_medicine",
+    "name": "Vascular Medicine"
+  },
+  {
+    "category_id": "cat_estheticians",
+    "name": "Estheticians"
+  },
+  {
+    "category_id": "cat_bail_bondsmen",
+    "name": "Bail Bondsmen"
+  },
+  {
+    "category_id": "cat_house_sitters",
+    "name": "House Sitters"
+  },
+  {
+    "category_id": "cat_endocrinologists",
+    "name": "Endocrinologists"
+  },
+  {
+    "category_id": "cat_tuscan",
+    "name": "Tuscan"
+  },
+  {
+    "category_id": "cat_brewing_supplies",
+    "name": "Brewing Supplies"
+  },
+  {
+    "category_id": "cat_hydroponics",
+    "name": "Hydroponics"
+  },
+  {
+    "category_id": "cat_basque",
+    "name": "Basque"
+  },
+  {
+    "category_id": "cat_hunting___fishing_supplies",
+    "name": "Hunting & Fishing Supplies"
+  },
+  {
+    "category_id": "cat_sailing",
+    "name": "Sailing"
+  },
+  {
+    "category_id": "cat_behavior_analysts",
+    "name": "Behavior Analysts"
+  },
+  {
+    "category_id": "cat_distilleries",
+    "name": "Distilleries"
+  },
+  {
+    "category_id": "cat_employment_law",
+    "name": "Employment Law"
+  },
+  {
+    "category_id": "cat_grill_services",
+    "name": "Grill Services"
+  },
+  {
+    "category_id": "cat_used_bookstore",
+    "name": "Used Bookstore"
+  },
+  {
+    "category_id": "cat_wraps",
+    "name": "Wraps"
+  },
+  {
+    "category_id": "cat_dim_sum",
+    "name": "Dim Sum"
+  },
+  {
+    "category_id": "cat_peruvian",
+    "name": "Peruvian"
+  },
+  {
+    "category_id": "cat_nail_technicians",
+    "name": "Nail Technicians"
+  },
+  {
+    "category_id": "cat_buffets",
+    "name": "Buffets"
+  },
+  {
+    "category_id": "cat_csa",
+    "name": "CSA"
+  },
+  {
+    "category_id": "cat_visitor_centers",
+    "name": "Visitor Centers"
+  },
+  {
+    "category_id": "cat_modern_european",
+    "name": "Modern European"
+  },
+  {
+    "category_id": "cat_urologists",
+    "name": "Urologists"
+  },
+  {
+    "category_id": "cat_oncologist",
+    "name": "Oncologist"
+  },
+  {
+    "category_id": "cat_livestock_feed___supply",
+    "name": "Livestock Feed & Supply"
+  },
+  {
+    "category_id": "cat_marinas",
+    "name": "Marinas"
+  },
+  {
+    "category_id": "cat_bespoke_clothing",
+    "name": "Bespoke Clothing"
+  },
+  {
+    "category_id": "cat_vocational___technical_school",
+    "name": "Vocational & Technical School"
+  },
+  {
+    "category_id": "cat_employment_agencies",
+    "name": "Employment Agencies"
+  },
+  {
+    "category_id": "cat_career_counseling",
+    "name": "Career Counseling"
+  },
+  {
+    "category_id": "cat_solar_panel_cleaning",
+    "name": "Solar Panel Cleaning"
+  },
+  {
+    "category_id": "cat_whiskey_bars",
+    "name": "Whiskey Bars"
+  },
+  {
+    "category_id": "cat_kebab",
+    "name": "Kebab"
+  },
+  {
+    "category_id": "cat_rock_climbing",
+    "name": "Rock Climbing"
+  },
+  {
+    "category_id": "cat_salvadoran",
+    "name": "Salvadoran"
+  },
+  {
+    "category_id": "cat_tattoo_removal",
+    "name": "Tattoo Removal"
+  },
+  {
+    "category_id": "cat_drive_in_theater",
+    "name": "Drive-In Theater"
+  },
+  {
+    "category_id": "cat_tea_rooms",
+    "name": "Tea Rooms"
+  },
+  {
+    "category_id": "cat_commercial_truck_dealers",
+    "name": "Commercial Truck Dealers"
+  },
+  {
+    "category_id": "cat_cuban",
+    "name": "Cuban"
+  },
+  {
+    "category_id": "cat_condominiums",
+    "name": "Condominiums"
+  },
+  {
+    "category_id": "cat_homeowner_association",
+    "name": "Homeowner Association"
+  },
+  {
+    "category_id": "cat_architectural_tours",
+    "name": "Architectural Tours"
+  },
+  {
+    "category_id": "cat_cannabis_dispensaries",
+    "name": "Cannabis Dispensaries"
+  },
+  {
+    "category_id": "cat_bike_tours",
+    "name": "Bike tours"
+  },
+  {
+    "category_id": "cat_skating_rinks",
+    "name": "Skating Rinks"
+  },
+  {
+    "category_id": "cat_stadiums___arenas",
+    "name": "Stadiums & Arenas"
+  },
+  {
+    "category_id": "cat_water_stores",
+    "name": "Water Stores"
+  },
+  {
+    "category_id": "cat_immigration_law",
+    "name": "Immigration Law"
+  },
+  {
+    "category_id": "cat_szechuan",
+    "name": "Szechuan"
+  },
+  {
+    "category_id": "cat_outlet_stores",
+    "name": "Outlet Stores"
+  },
+  {
+    "category_id": "cat_waterproofing",
+    "name": "Waterproofing"
+  },
+  {
+    "category_id": "cat_ayurveda",
+    "name": "Ayurveda"
+  },
+  {
+    "category_id": "cat_dance_schools",
+    "name": "Dance Schools"
+  },
+  {
+    "category_id": "cat_belgian",
+    "name": "Belgian"
+  },
+  {
+    "category_id": "cat_gelato",
+    "name": "Gelato"
+  },
+  {
+    "category_id": "cat_horse_boarding",
+    "name": "Horse Boarding"
+  },
+  {
+    "category_id": "cat_cultural_center",
+    "name": "Cultural Center"
+  },
+  {
+    "category_id": "cat_indoor_playcentre",
+    "name": "Indoor Playcentre"
+  },
+  {
+    "category_id": "cat_fabric_stores",
+    "name": "Fabric Stores"
+  },
+  {
+    "category_id": "cat_ski___snowboard_shops",
+    "name": "Ski & Snowboard Shops"
+  },
+  {
+    "category_id": "cat_vinyl_records",
+    "name": "Vinyl Records"
+  },
+  {
+    "category_id": "cat_music___dvds",
+    "name": "Music & DVDs"
+  },
+  {
+    "category_id": "cat_british",
+    "name": "British"
+  },
+  {
+    "category_id": "cat_falafel",
+    "name": "Falafel"
+  },
+  {
+    "category_id": "cat_lice_services",
+    "name": "Lice Services"
+  },
+  {
+    "category_id": "cat_tanning_beds",
+    "name": "Tanning Beds"
+  },
+  {
+    "category_id": "cat_day_camps",
+    "name": "Day Camps"
+  },
+  {
+    "category_id": "cat_paint_stores",
+    "name": "Paint Stores"
+  },
+  {
+    "category_id": "cat_challenge_courses",
+    "name": "Challenge Courses"
+  },
+  {
+    "category_id": "cat_art_schools",
+    "name": "Art Schools"
+  },
+  {
+    "category_id": "cat_glass_blowing",
+    "name": "Glass Blowing"
+  },
+  {
+    "category_id": "cat_fingerprinting",
+    "name": "Fingerprinting"
+  },
+  {
+    "category_id": "cat_dumpster_rental",
+    "name": "Dumpster Rental"
+  },
+  {
+    "category_id": "cat_estate_liquidation",
+    "name": "Estate Liquidation"
+  },
+  {
+    "category_id": "cat_service_stations",
+    "name": "Service Stations"
+  },
+  {
+    "category_id": "cat_reproductive_health_services",
+    "name": "Reproductive Health Services"
+  },
+  {
+    "category_id": "cat_hydro_jetting",
+    "name": "Hydro-jetting"
+  },
+  {
+    "category_id": "cat_paint___sip",
+    "name": "Paint & Sip"
+  },
+  {
+    "category_id": "cat_print_media",
+    "name": "Print Media"
+  },
+  {
+    "category_id": "cat_mobile_dent_repair",
+    "name": "Mobile Dent Repair"
+  },
+  {
+    "category_id": "cat_tv_mounting",
+    "name": "TV Mounting"
+  },
+  {
+    "category_id": "cat_tui_na",
+    "name": "Tui Na"
+  },
+  {
+    "category_id": "cat_montessori_schools",
+    "name": "Montessori Schools"
+  },
+  {
+    "category_id": "cat_bankruptcy_law",
+    "name": "Bankruptcy Law"
+  },
+  {
+    "category_id": "cat_hair_loss_centers",
+    "name": "Hair Loss Centers"
+  },
+  {
+    "category_id": "cat_irish",
+    "name": "Irish"
+  },
+  {
+    "category_id": "cat_personal_assistants",
+    "name": "Personal Assistants"
+  },
+  {
+    "category_id": "cat_caribbean",
+    "name": "Caribbean"
+  },
+  {
+    "category_id": "cat_halal",
+    "name": "Halal"
+  },
+  {
+    "category_id": "cat_senior_centers",
+    "name": "Senior Centers"
+  },
+  {
+    "category_id": "cat_home_organization",
+    "name": "Home Organization"
+  },
+  {
+    "category_id": "cat_himalayan_nepalese",
+    "name": "Himalayan/Nepalese"
+  },
+  {
+    "category_id": "cat_sleep_specialists",
+    "name": "Sleep Specialists"
+  },
+  {
+    "category_id": "cat_environmental_abatement",
+    "name": "Environmental Abatement"
+  },
+  {
+    "category_id": "cat_cannabis_collective",
+    "name": "Cannabis Collective"
+  },
+  {
+    "category_id": "cat_excavation_services",
+    "name": "Excavation Services"
+  },
+  {
+    "category_id": "cat_shared_office_spaces",
+    "name": "Shared Office Spaces"
+  },
+  {
+    "category_id": "cat_tiki_bars",
+    "name": "Tiki Bars"
+  },
+  {
+    "category_id": "cat_clock_repair",
+    "name": "Clock Repair"
+  },
+  {
+    "category_id": "cat_hybrid_car_repair",
+    "name": "Hybrid Car Repair"
+  },
+  {
+    "category_id": "cat_golf_lessons",
+    "name": "Golf Lessons"
+  },
+  {
+    "category_id": "cat_pretzels",
+    "name": "Pretzels"
+  },
+  {
+    "category_id": "cat_emergency_medicine",
+    "name": "Emergency Medicine"
+  },
+  {
+    "category_id": "cat_zoos",
+    "name": "Zoos"
+  },
+  {
+    "category_id": "cat_traffic_ticketing_law",
+    "name": "Traffic Ticketing Law"
+  },
+  {
+    "category_id": "cat_debt_relief_services",
+    "name": "Debt Relief Services"
+  },
+  {
+    "category_id": "cat_drama_schools",
+    "name": "Drama Schools"
+  },
+  {
+    "category_id": "cat_grilling_equipment",
+    "name": "Grilling Equipment"
+  },
+  {
+    "category_id": "cat_outdoor_furniture_stores",
+    "name": "Outdoor Furniture Stores"
+  },
+  {
+    "category_id": "cat_photography_classes",
+    "name": "Photography Classes"
+  },
+  {
+    "category_id": "cat_yelp_events",
+    "name": "Yelp Events"
+  },
+  {
+    "category_id": "cat_skydiving",
+    "name": "Skydiving"
+  },
+  {
+    "category_id": "cat_business_consulting",
+    "name": "Business Consulting"
+  },
+  {
+    "category_id": "cat_medical_cannabis_referrals",
+    "name": "Medical Cannabis Referrals"
+  },
+  {
+    "category_id": "cat_software_development",
+    "name": "Software Development"
+  },
+  {
+    "category_id": "cat_halotherapy",
+    "name": "Halotherapy"
+  },
+  {
+    "category_id": "cat_undersea_hyperbaric_medicine",
+    "name": "Undersea/Hyperbaric Medicine"
+  },
+  {
+    "category_id": "cat_oxygen_bars",
+    "name": "Oxygen Bars"
+  },
+  {
+    "category_id": "cat_patio_coverings",
+    "name": "Patio Coverings"
+  },
+  {
+    "category_id": "cat_decks___railing",
+    "name": "Decks & Railing"
+  },
+  {
+    "category_id": "cat_walk_in_clinics",
+    "name": "Walk-in Clinics"
+  },
+  {
+    "category_id": "cat_pasta_shops",
+    "name": "Pasta Shops"
+  },
+  {
+    "category_id": "cat_trampoline_parks",
+    "name": "Trampoline Parks"
+  },
+  {
+    "category_id": "cat_immunodermatologists",
+    "name": "Immunodermatologists"
+  },
+  {
+    "category_id": "cat_southern",
+    "name": "Southern"
+  },
+  {
+    "category_id": "cat_ethiopian",
+    "name": "Ethiopian"
+  },
+  {
+    "category_id": "cat_pop_up_shops",
+    "name": "Pop-up Shops"
+  },
+  {
+    "category_id": "cat_scooter_tours",
+    "name": "Scooter Tours"
+  },
+  {
+    "category_id": "cat_sports_psychologists",
+    "name": "Sports Psychologists"
+  },
+  {
+    "category_id": "cat_clothing_rental",
+    "name": "Clothing Rental"
+  },
+  {
+    "category_id": "cat_art_installation",
+    "name": "Art Installation"
+  },
+  {
+    "category_id": "cat_retina_specialists",
+    "name": "Retina Specialists"
+  },
+  {
+    "category_id": "cat_lighting_stores",
+    "name": "Lighting Stores"
+  },
+  {
+    "category_id": "cat_persian_iranian",
+    "name": "Persian/Iranian"
+  },
+  {
+    "category_id": "cat_turkish",
+    "name": "Turkish"
+  },
+  {
+    "category_id": "cat_lebanese",
+    "name": "Lebanese"
+  },
+  {
+    "category_id": "cat_dog_parks",
+    "name": "Dog Parks"
+  },
+  {
+    "category_id": "cat_alternative_medicine",
+    "name": "Alternative Medicine"
+  },
+  {
+    "category_id": "cat_community_gardens",
+    "name": "Community Gardens"
+  },
+  {
+    "category_id": "cat_cantonese",
+    "name": "Cantonese"
+  },
+  {
+    "category_id": "cat_holistic_animal_care",
+    "name": "Holistic Animal Care"
+  },
+  {
+    "category_id": "cat_flea_markets",
+    "name": "Flea Markets"
+  },
+  {
+    "category_id": "cat_recording___rehearsal_studios",
+    "name": "Recording & Rehearsal Studios"
+  },
+  {
+    "category_id": "cat_community_centers",
+    "name": "Community Centers"
+  },
+  {
+    "category_id": "cat_first_aid_classes",
+    "name": "First Aid Classes"
+  },
+  {
+    "category_id": "cat_halfway_houses",
+    "name": "Halfway Houses"
+  },
+  {
+    "category_id": "cat_indonesian",
+    "name": "Indonesian"
+  },
+  {
+    "category_id": "cat_gunsmith",
+    "name": "Gunsmith"
+  },
+  {
+    "category_id": "cat_bocce_ball",
+    "name": "Bocce Ball"
+  },
+  {
+    "category_id": "cat_trivia_hosts",
+    "name": "Trivia Hosts"
+  },
+  {
+    "category_id": "cat_trains",
+    "name": "Trains"
+  },
+  {
+    "category_id": "cat_health_retreats",
+    "name": "Health Retreats"
+  },
+  {
+    "category_id": "cat_ethnic_grocery",
+    "name": "Ethnic Grocery"
+  },
+  {
+    "category_id": "cat_religious_items",
+    "name": "Religious Items"
+  },
+  {
+    "category_id": "cat_irish_pub",
+    "name": "Irish Pub"
+  },
+  {
+    "category_id": "cat_fondue",
+    "name": "Fondue"
+  },
+  {
+    "category_id": "cat_free_diving",
+    "name": "Free Diving"
+  },
+  {
+    "category_id": "cat_dive_shops",
+    "name": "Dive Shops"
+  },
+  {
+    "category_id": "cat_passport___visa_services",
+    "name": "Passport & Visa Services"
+  },
+  {
+    "category_id": "cat_balloon_services",
+    "name": "Balloon Services"
+  },
+  {
+    "category_id": "cat_butcher",
+    "name": "Butcher"
+  },
+  {
+    "category_id": "cat_newspapers___magazines",
+    "name": "Newspapers & Magazines"
+  },
+  {
+    "category_id": "cat_haunted_houses",
+    "name": "Haunted Houses"
+  },
+  {
+    "category_id": "cat_plus_size_fashion",
+    "name": "Plus Size Fashion"
+  },
+  {
+    "category_id": "cat_contract_law",
+    "name": "Contract Law"
+  },
+  {
+    "category_id": "cat_test_preparation",
+    "name": "Test Preparation"
+  },
+  {
+    "category_id": "cat_races___competitions",
+    "name": "Races & Competitions"
+  },
+  {
+    "category_id": "cat_scandinavian",
+    "name": "Scandinavian"
+  },
+  {
+    "category_id": "cat_chinese_martial_arts",
+    "name": "Chinese Martial Arts"
+  },
+  {
+    "category_id": "cat_tai_chi",
+    "name": "Tai Chi"
+  },
+  {
+    "category_id": "cat_macarons",
+    "name": "Macarons"
+  },
+  {
+    "category_id": "cat_bounce_house_rentals",
+    "name": "Bounce House Rentals"
+  },
+  {
+    "category_id": "cat_mobile_home_dealers",
+    "name": "Mobile Home Dealers"
+  },
+  {
+    "category_id": "cat_trailer_dealers",
+    "name": "Trailer Dealers"
+  },
+  {
+    "category_id": "cat_airport_terminals",
+    "name": "Airport Terminals"
+  },
+  {
+    "category_id": "cat_knife_sharpening",
+    "name": "Knife Sharpening"
+  },
+  {
+    "category_id": "cat_snorkeling",
+    "name": "Snorkeling"
+  },
+  {
+    "category_id": "cat_cideries",
+    "name": "Cideries"
+  },
+  {
+    "category_id": "cat_bar_crawl",
+    "name": "Bar Crawl"
+  },
+  {
+    "category_id": "cat_public_markets",
+    "name": "Public Markets"
+  },
+  {
+    "category_id": "cat_float_spa",
+    "name": "Float Spa"
+  },
+  {
+    "category_id": "cat_digitizing_services",
+    "name": "Digitizing Services"
+  },
+  {
+    "category_id": "cat_social_security_law",
+    "name": "Social Security Law"
+  },
+  {
+    "category_id": "cat_gastroenterologist",
+    "name": "Gastroenterologist"
+  },
+  {
+    "category_id": "cat_outdoor_power_equipment_services",
+    "name": "Outdoor Power Equipment Services"
+  },
+  {
+    "category_id": "cat_indoor_landscaping",
+    "name": "Indoor Landscaping"
+  },
+  {
+    "category_id": "cat_ultrasound_imaging_centers",
+    "name": "Ultrasound Imaging Centers"
+  },
+  {
+    "category_id": "cat_environmental_testing",
+    "name": "Environmental Testing"
+  }
+]

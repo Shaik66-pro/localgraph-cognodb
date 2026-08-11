@@ -1,0 +1,21 @@
+# Environment variables
+.env
+*.env
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Builds
+dist/
+build/
+
+# IDE / System
+.DS_Store
+*.log
+.vscode/
+.gemini/
+
+# Raw dataset files (large files)
+dataset/*.json
+!dataset/Dataset_User_Agreement.pdf

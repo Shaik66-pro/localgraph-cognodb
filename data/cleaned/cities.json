@@ -1,0 +1,27 @@
+[
+  {
+    "city_id": "city_mumbai",
+    "name": "Mumbai",
+    "state": "MH"
+  },
+  {
+    "city_id": "city_bengaluru",
+    "name": "Bengaluru",
+    "state": "KA"
+  },
+  {
+    "city_id": "city_goa",
+    "name": "Goa",
+    "state": "GA"
+  },
+  {
+    "city_id": "city_delhi",
+    "name": "Delhi",
+    "state": "DL"
+  },
+  {
+    "city_id": "city_pune",
+    "name": "Pune",
+    "state": "MH"
+  }
+]
