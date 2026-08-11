@@ -316,34 +316,44 @@ const GET_GRAPH_STATS = `
 // DISTINCT/aggregation prevents duplicate businesses when a business
 // has multiple categories.
 const SEARCH_BUSINESSES = `
-  MATCH (b:Business)-[:LOCATED_IN]->(c:City)
-  OPTIONAL MATCH (b)-[:HAS_CATEGORY]->(cat:Category)
+MATCH (b:Business)-[:LOCATED_IN]->(c:City)
+OPTIONAL MATCH (b)-[:HAS_CATEGORY]->(cat:Category)
 
-  WHERE ($city IS NULL OR $city = '' OR toLower(c.name) = toLower($city))
-    AND ($category IS NULL OR $category = '' OR toLower(cat.name) = toLower($category))
-    AND ($minRating IS NULL OR b.stars >= $minRating)
-    AND (
-      $searchTerm IS NULL
-      OR $searchTerm = ''
-      OR toLower(b.name) CONTAINS toLower($searchTerm)
-    )
+WITH
+  b,
+  c,
+  collect(DISTINCT cat.name) AS categories
 
-  WITH b,
-       c,
-       collect(DISTINCT cat.name) AS categories
+WHERE
+  ($city IS NULL OR $city = '' OR toLower(c.name) = toLower($city))
+  AND (
+    $category IS NULL
+    OR $category = ''
+    OR ANY(x IN categories WHERE toLower(x) = toLower($category))
+  )
+  AND (
+    $minRating IS NULL
+    OR toFloat(b.stars) >= toFloat($minRating)
+  )
+  AND (
+    $searchTerm IS NULL
+    OR $searchTerm = ''
+    OR toLower(b.name) CONTAINS toLower($searchTerm)
+  )
 
-  RETURN b.business_id AS business_id,
-         b.name AS name,
-         b.address AS address,
-         c.name AS city,
-         b.state AS state,
-         b.stars AS stars,
-         b.review_count AS review_count,
-         categories
+RETURN
+  b.business_id AS business_id,
+  b.name AS name,
+  b.address AS address,
+  c.name AS city,
+  b.state AS state,
+  toFloat(b.stars) AS stars,
+  b.review_count AS review_count,
+  categories
 
-  ORDER BY b.business_id ASC
-  SKIP $skip
-  LIMIT $limit
+ORDER BY b.business_id ASC
+SKIP $skip
+LIMIT $limit
 `;
 
 // 3. Business details by ID
